@@ -1,5 +1,5 @@
-
-
+--Warning: Needs a lot of refactoring. FarthestPointFromSurface unnecessary as function only used once. Simplify if statements. Use indexing methods that avoid 2D arrays.
+--Old code from 2018
 
 
 
